@@ -1,0 +1,6 @@
+/UnityPackageManager
+/.vs
+/Library
+/Temp
+*.csproj
+*.sln
